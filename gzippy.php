@@ -27,6 +27,8 @@ function gzippy() {
 	ob_start('ob_gzhandler');
 }
 
-add_action('init', 'gzippy');
+if(!strstr($_SERVER['PHP_SELF'], 'wp-admin')) { // Don't use compression in admin, because it can conflict with TinyMCE.
+	add_action('init', 'gzippy');
+}
 
 ?>
