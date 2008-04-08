@@ -6,7 +6,7 @@ Link: http://shamalt.scft.hu/wordpress/
 Tags: gzip, plugin
 Requires at least: 2.5
 Tested up to: 2.5
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 
 GZippy re-enables gzip compression under WordPress 2.5.
 
