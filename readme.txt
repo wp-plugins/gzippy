@@ -1,8 +1,8 @@
 === GZippy ===
 
 Contributors: shamalt
-Donate link: http://shamalt.scft.hu/wordpress/
-Link: http://shamalt.scft.hu/wordpress/
+Donate link: http://blog.shamalt.hu/wordpress/
+Link: http://blog.shamalt.hu/wordpress/
 Tags: gzip, plugin
 Requires at least: 2.5
 Tested up to: 2.5
