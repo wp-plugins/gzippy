@@ -2,9 +2,9 @@
 /*
 Plugin Name: GZippy
 Plugin URI: http://blog.shamalt.hu/wordpress/
-Description: GZippy re-enables gzip compression under WordPress 2.5.
+Description: GZippy re-enables gzip compression under WordPress.
 Author: Shamalt
-Version: 1.0.2
+Version: 1.0.2.1
 Author URI: http://blog.shamalt.hu/
 
 Copyright (C) 2008 Shamalt
